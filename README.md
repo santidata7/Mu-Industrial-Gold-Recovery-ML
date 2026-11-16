@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="mu_recuperacion-oro" src="https://github.com/user-attachments/assets/7564901b-6853-4084-8115-fe3ab3cffb8c" />
 # Mu | Predicción de Recuperación de Oro con Machine Learning
 
 ## Descripción general
